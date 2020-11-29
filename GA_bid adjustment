@@ -1,4 +1,11 @@
+from GA Academy
 Bid adjustments
 Finally, let’s look at the “Bid adjustments” report. Bid adjustments are a Google Ads feature used to automatically adjust keyword bids based on a user’s device, location, or time of day. For example, if the Google Store opens a temporary location during the holidays to sell merchandise, they might want to add a bid adjustment to increase ad visibility on mobile devices within three miles of the store during the hours of operation.
 
 The Bid Adjustment report in Analytics lets you analyze Google Ads performance for the bid adjustments you've set for your campaigns. You can use the selector at the top of the table to evaluate campaign performance by the device, location, time of day, and remarketing list bid adjustments.
+
+From me
+예를들어 레스토랑이 있고, 겨울 한정 캠페인을 한다고 하자. 캠페인 동안 이런저런 마케팅 광고등을 할텐데, 그 방법들 가운데 구글 Ad도 포함이 되어있겠다. 
+아무래도 겨울이기도하고 하니까 레스토랑 주변 50마일, Mobile, Table 대상, 저녁메뉴이기에 저녁시간 대에 더 광고를 노출시키는 것이 유리하겠다. 
+이럴경우! 구글 Ad의 Bid를 Adjustment 기능이 이것을 가능하게 해준다.
+Google Analytics는 이 설정에 따른 수집된 데이터를 분석할 수 있고 다음 캠페인에 활용할 수 있다.
