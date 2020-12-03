@@ -1,0 +1,11 @@
+Anatomy of a "hit"
+With each user interaction on your website, the Analytics tracking code sends what’s called a “hit” to Google Analytics. A “hit” is a URL string with parameters of useful information about your users. It looks something like this:
+
+
+
+If we break down the URL string, you can see that it’s passing some useful information to Analytics about the user that triggered the hit. For example, we can see things like:
+
+the language the user’s browser is set to
+the name of the page they’re viewing
+the screen resolution of the user’s device
+and the Analytics ID that associates that hit to the correct Analytics account.
