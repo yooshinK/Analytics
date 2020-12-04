@@ -1,11 +1,21 @@
 Anatomy of a "hit"
 With each user interaction on your website, the Analytics tracking code sends what’s called a “hit” to Google Analytics. A “hit” is a URL string with parameters of useful information about your users. It looks something like this:
 
-
-
 If we break down the URL string, you can see that it’s passing some useful information to Analytics about the user that triggered the hit. For example, we can see things like:
 
 the language the user’s browser is set to
 the name of the page they’re viewing
 the screen resolution of the user’s device
 and the Analytics ID that associates that hit to the correct Analytics account.
+This is just some of the information passed in the hit, depending on the user interaction with the site and what is being tracked. The hit will also include other information like a randomly-generated user identifier. This will allow Google Analytics to differentiate between new and returning users.
+
+The three most common types of hits are:
+
+“pageview” hits
+“event” hits
+and “transaction” hits
+A “pageview” hit is triggered when a user loads a webpage with the tracking code. This is the most common type of hit sent to Analytics. Every time a user opens a page with the tracking code, a new pageview hit will be sent.
+
+An “event” hit lets you track every time a user interacts with a particular element on your website. For example, you can track whether users click a video Play button, a particular URL, or a product carousel. Event hits pass four parameters of data in the URL: event action, category, label, and value. You can use these to categorize interactions in reports that are specific to your website. We’ll go into more detail on event tracking a little later.
+
+A “transaction” hit (also called an “ecommerce” hit) can pass data to Analytics about ecommerce purchases such as products purchased, transaction IDs, and “stock keeping units” (or SKUs).
