@@ -1,0 +1,7 @@
+New vs. Returning Users
+In the first step, Google Analytics differentiates new from returning users. When a user arrives on a page with tracking code, Google Analytics creates a random, unique ID that gets associated with the user’s browser cookie. Analytics considers each unique ID to be a unique user. Every time a new ID is detected, Analytics counts a “new user” and sends it over with the hit. When Analytics detects an existing ID, it sends a “returning user” value with the hit.
+
+There are a couple of limitations to note about differentiating users. Since Analytics uses a browser cookie to determine unique users over a given session, this information will be lost if a user clears or has blocked that cookie in their web browser. If a user clears their browser cookies, Google Analytics will set a new unique ID the next time a browser loads a tracked web page. Analytics will then count that user as “New,” rather than “Returning.”
+
+
+Google Analytics can identify users over multiple sessions, as long as the sessions happen in the same browser on the same device. Analytics doesn’t recognize users who visit your website from different devices by default and will count each device as a unique user. If you wish to track users across devices, you’ll need to turn on the User ID feature, which we’ll cover later.
