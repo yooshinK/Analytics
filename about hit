@@ -19,11 +19,3 @@ A “pageview” hit is triggered when a user loads a webpage with the tracking 
 An “event” hit lets you track every time a user interacts with a particular element on your website. For example, you can track whether users click a video Play button, a particular URL, or a product carousel. Event hits pass four parameters of data in the URL: event action, category, label, and value. You can use these to categorize interactions in reports that are specific to your website. We’ll go into more detail on event tracking a little later.
 
 A “transaction” hit (also called an “ecommerce” hit) can pass data to Analytics about ecommerce purchases such as products purchased, transaction IDs, and “stock keeping units” (or SKUs).
-
-A “pageview” hit is triggered when a user loads a webpage with the tracking code. This is the most common type of hit sent to Analytics. Every time a user opens a page with the tracking code, a new pageview hit will be sent.
-
-An “event” hit lets you track every time a user interacts with a particular element on your website. For example, you can track whether users click a video Play button, a particular URL, or a product carousel. Event hits pass four parameters of data in the URL: event action, category, label, and value. You can use these to categorize interactions in reports that are specific to your website. We’ll go into more detail on event tracking a little later.
-
-A “transaction” hit (also called an “ecommerce” hit) can pass data to Analytics about ecommerce purchases such as products purchased, transaction IDs, and “stock keeping units” (or SKUs).
-
-If you’ve set up Enhanced Ecommerce within Google Analytics, you can also pass additional ecommerce data like product category, whether items have been added or removed from a shopping cart, and how many times users viewed a product on a website.
