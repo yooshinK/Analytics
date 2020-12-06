@@ -1,0 +1,1 @@
+Bounce rate is calculated by looking at users who only had one interaction on your site without a second interaction to calculate the session duration or time on page. If this occurs, the pageview of a bounced visit is assigned a session duration and Time on Page of zero.
