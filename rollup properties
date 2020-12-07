@@ -1,0 +1,10 @@
+ Google Analytics 360 
+ roll-up properties
+ 
+ Google Analytics 360 Customers have another way to aggregate data across domains. Using a feature called “rollup reporting,” you can aggregate data automatically from multiple properties into a new combined property.
+
+For example, if the Google Merchandise Store wanted to use one property to track their website and another property to track their mobile app, they could also create a third property to aggregate data from both the website and the app to analyze that data together. This gives Analytics 360 users options to combine the data from different properties.
+
+Note that roll-up properties don’t include data that you import or link from another account -- like Google Ads. If you want to include linked data from your source properties into your roll-up properties, you’ll need to re-link the roll-up property with the linked account.
+
+Also, when users are identified by the same Client ID across different source properties, session data for those users is usually merged; otherwise, that session data remains separate. 
