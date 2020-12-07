@@ -8,3 +8,5 @@ For example, if the Google Merchandise Store wanted to use one property to track
 Note that roll-up properties don’t include data that you import or link from another account -- like Google Ads. If you want to include linked data from your source properties into your roll-up properties, you’ll need to re-link the roll-up property with the linked account.
 
 Also, when users are identified by the same Client ID across different source properties, session data for those users is usually merged; otherwise, that session data remains separate. 
+
+https://support.google.com/analytics/answer/6033415?hl=en
