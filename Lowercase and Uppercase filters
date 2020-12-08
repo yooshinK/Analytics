@@ -1,3 +1,5 @@
 You can also use filters to normalize the data in your reports to make them easier to use. Google Analytics data isn't case sensitive, so pages in the All Pages report may show the same URL multiple times.
 
 You can quickly combine rows that differ only by case, by using a Lowercase or Uppercase filter. These filters will force the case to all lowercase or all uppercase, thus eliminating duplicate data.
+
+-> 쉽게 말하면 강제로 소문자 또는 대문자로 정리(필터링)한번 하고나서 Duplication을 방지하는 것
