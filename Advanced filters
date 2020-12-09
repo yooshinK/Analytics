@@ -1,0 +1,16 @@
+Advanced filters
+In addition to include, exclude, and lowercase filters, there are other advanced filters that allow you to remove, replace, and combine filter fields in more complex ways using what are called “regular expressions.” Regular expressions (or “reg ex” for short) are characters that you can use to identify matching text in order to trigger an action. A basic regular expression on a filter can be something as simple as a word or a more complicated combination of characters.
+
+Let’s say the Google Merchandise Store wants to set up a view with a filter to see all the keywords users searched for on their website for Android dolls. Because users might search for variations like “Android plush doll,” or “Android stuffed doll,” we can create a regular expression that identifies each of these variations. 
+
+We can add an advanced filter with a regular expression that recognizes any Site Search queries that contain the terms “android” and “doll.” This is just a basic example, but you can use regex to find much more sophisticated strings to apply your filters.
+
+For example, if you have technical query parameters passed in the URL of your website, you might have identical pages with different addresses.
+
+Because the URL is different, this page will show up multiple times in your reports. But since they’re the same page, it may make sense to filter out the query parameters, so that it doesn’t appear multiple times in a report.
+
+You can include a regular expression that recognizes the main part of the URL before the query parameter, puts it in a variable, and overwrites the entire URL with that variable. This renders these page URLs identical in reporting.
+
+For businesses that collect data from multiple domains, it can be hard to distinguish page names in Google Analytics. In the “All Pages” report, “googlestoreamerica/index.axd” and “googlestoreeurope/index.axd” will both show up as “index.axd.” 
+
+You can use a regular expression to add the hostname in Analytics so that you can distinguish between multiple domains. To learn more about regular expressions, please visit the resources at the end of the lesson. 
