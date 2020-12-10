@@ -1,4 +1,7 @@
 Custom Dimensions and Metrics
+
+Custom dimensions are similar to default dimensions except that you define what they are and their value. This let’s you collect data that’s customized specifically for your business.
+
 You learned about dimensions and metrics in Google Analytics for Beginners. But you also can create your own dimensions and metrics in Analytics called “Custom Dimensions” and “Custom Metrics.” Custom Dimensions help you define a group of metric data that’s specific to your business and then apply that as a dimension across your reports.
 
 Custom Dimensions can be used as a secondary dimension in standard reports, a primary dimension in a Custom Report, or as a segment. We’ll discuss Custom Reports and segments later in the course. 
@@ -7,3 +10,6 @@ You can also upload your own data to Google Analytics including hit data, extend
 
 more info:
 https://support.google.com/analytics/answer/2709828?hl=en
+https://analytics.google.com/analytics/academy/course/7/unit/2/lesson/3
+
+Custom dimensions are similar to default dimensions except that you define what they are and their value. This let’s you collect data that’s customized specifically for your business.
