@@ -13,3 +13,17 @@ https://support.google.com/analytics/answer/2709828?hl=en
 https://analytics.google.com/analytics/academy/course/7/unit/2/lesson/3
 
 Custom dimensions are similar to default dimensions except that you define what they are and their value. This let’s you collect data that’s customized specifically for your business.
+
+How to set up custom paramters
+How to set up Custom Metrics
+Custom Metrics let you collect metrics in Google Analytics that are specific to your business. This can be the number of ads that loaded on a page, the bandwidth that the page consumed when it loaded, or the total number of brand pageviews that each of your marketing channels leads to.
+
+Similar to Custom Dimensions, you collect Custom Metric data using JavaScript that’s implemented on a page. When a user lands on that page or performs a specific action, the Custom Metric will be sent as an additional parameter attached to the hit.
+
+
+
+For example, the Google Merchandise Store is in a big push to sell Android-branded merchandise and wants to know which marketing channels are contributing to Android merchandise pageviews. They can include tracking code on Android merchandise pages that fires with each pageview hit and increments a Custom Metric in Google Analytics.
+
+To set up a Custom Metric, go into Admin. Select the Property in which you want the metric applied. Then click “Custom Definitions” and “Custom Metrics.” Then click “New Custom Metric.”.
+
+You first have to name the Custom Metric. Then you have to define its scope. This is based on how this metric data will be generated. Unlike dimensions, Custom Metrics can only have a scope of “hit,” or “product.”
