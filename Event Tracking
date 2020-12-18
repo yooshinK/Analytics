@@ -4,7 +4,6 @@ https://support.google.com/analytics/answer/7165642?hl=en
 Event tracking is a great way to know if users are engaging with your website and performing intended actions. 
 
 “Category” lets you organize the events you track into groups. For your website, this might be “Videos” or “Social Shares.”   
-
 “Action” is the action the user took when they initiated the event. If you were tracking when users click a video play-button, you might have a category called “Videos” with an associated action of “Play.”  
 “Label” is an optional value used to further describe the element you’re tracking like the name of a video. This can help you make your event reports more readable. 
 “Value” is an optional numerical value like the amount of time it takes a video to load or how much a specific event action is worth. You can use Value to assign a specific dollar amount when a specific action occurs.
