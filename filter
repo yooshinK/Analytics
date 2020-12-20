@@ -1,1 +1,3 @@
-It’s important to understand that when data is collected and processed, it can’t be changed. For example, if you set a filter to exclude data on a view, that data will be permanently removed during processing from the reports in that view and cannot be recovered.
+It’s important to understand that when data is collected and processed, 
+it can’t be changed. For example, if you set a filter to exclude data on a view, 
+that data will be permanently removed during processing from the reports in that view and cannot be recovered.
