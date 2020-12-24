@@ -1,0 +1,6 @@
+“query parameter” that your website uses in the URL when users search on your site. 
+This is usually designated by a question mark followed by a letter or word and then an equals sign before the search term. 
+The Google Merchandise Store uses the term “keywords” before the search query.
+
+ex) keyword is the query parameter
+yooshink.com/asearch.html/?keyword=OOO
