@@ -4,3 +4,18 @@ to track what search terms users enter can help you
 - optimize navigation and site layout
 - improve search results
 - generate ideas for new keywords for marketing campaigns.
+
+
+“Search Exits” are the number of searches made immediately before leaving the site.
+“Search Refinements” are the number of times a user immediately searched again after performing a search.
+“Time After Search” is the amount of time users spend on a site after performing a search.
+And “Average Search Depth” is the number of pages that were viewed after getting back search results.
+After you set up Site Search, you may need to wait a week or two to have enough data to discover insights. 
+
+The “Usage” report splits site search out by Acquisition, Behavior, and Conversion metrics. 
+To view your search terms data in more detail, click on the “Search Terms” report.
+
+The Search Terms report shows all of your website search terms in a table view.
+
+The “Pages” report will show you which pages users most commonly searched from. 
+If you add a secondary dimension of “Search term” to this report, you can find some potential areas for site optimization.
