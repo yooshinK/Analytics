@@ -1,4 +1,6 @@
-After Google Analytics has finished processing, you can access and analyze your data using the reports. It’s also possible to access your Analytics data using the Google Analytics Core Reporting API. This allows you to build your own reporting tools or extract your data directly into third-party reporting tools.
+After Google Analytics has finished processing, you can access and analyze your data using the reports. 
+It’s also possible to access your Analytics data using the Google Analytics Core Reporting API. 
+This allows you to build your own reporting tools or extract your data directly into third-party reporting tools.
 
 The Google Analytics Core Reporting API gives you access to most of the report data in Google Analytics. With the Core Reporting API you can:
 
