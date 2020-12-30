@@ -4,3 +4,37 @@ Search Page - Page on site where the user enters terms for a web search
 Search Results Page - Results page that is returned on a search engine query
 
 Results Pageview - The page viewed after a click on a results page
+
+
+Example
+Assuming your website received three sessions from users that navigate as described below...
+
+Session 1: (time between camera term search page and black camera term search page is 30 seconds; and black camera search to site exit is 60 seconds)
+Search Term Page (term: camera) >:
+Results Page >
+view Results Pageview >
+view Results Pageview >
+Search Term Page (term: black camera) >
+Search Results Page >
+view Results Pageview >
+view Results Pageview >
+view Results Pageview >
+Site exit
+Session 2: (time between computer term search page to site exit is 15 seconds)
+Search Page (term: computer) >
+Results Page >
+Site exit
+Session 3:
+No Search
+...The following metrics can be calculated:
+
+% Sessions used internal search = 2 Users that used site search (Session 1 & Session 2) / 3 Total Users = 66.7%
+Sessions with Search = 2 (Session 1 & Session 2)
+Total Unique Searches = 3 (camera, black camera, computer)
+Results Pageviews / Search = (2 + 3) / 3 = 1.67
+Search Exits = 1 (Session 2)
+% Search Exits = 1 (Session 2) / 2 (Session 1 & Session 2) = 50%
+Refinement = 1 (Session 1 - black camera)
+% Refinement = 1 (Session 1 - black camera) / 3 = 33.3%
+Time after Search = (30 seconds + 60 seconds + 15 seconds) / (1 + 1) [session 1 & session 2] = 52.5 sec
+Search Depth = (2 [camera] + 3 [black camera] + 0 [computer]) / (1 [Session 1] + 1 [Session 2]) = 2.5
