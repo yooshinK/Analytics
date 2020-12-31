@@ -25,3 +25,4 @@ For example, you can track whether users click a video Play button, a particular
 
 A “transaction” hit (also called an “ecommerce” hit) can pass data to Analytics about ecommerce purchases such as products purchased, transaction IDs, 
 and “stock keeping units” (or SKUs).
+
