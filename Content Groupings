@@ -6,5 +6,7 @@ To use this method you will add a regular expression that extracts the name of y
 And “Group Using Rule Definitions” creates a group based on simple logic rules. 
 For example, you can define one or more rules such as “page contains Android” to group any pages that are related to Android.
 
+해쉬태그도 일종의 컨텐츠 그룹핑이다.
+
 For more info:
 https://support.google.com/analytics/answer/7165163?hl=en
