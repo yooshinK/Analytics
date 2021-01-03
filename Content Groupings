@@ -1,1 +1,10 @@
+When setting up Content Groups, you have three options for how you assign pages to groups:
+
+“Group By Tracking Code” creates a group using your Google Analytics tracking code.
+“Group Using Extraction” creates a group using the URL structure of your pages. 
+To use this method you will add a regular expression that extracts the name of your group from the URLs of your pages.
+And “Group Using Rule Definitions” creates a group based on simple logic rules. 
+For example, you can define one or more rules such as “page contains Android” to group any pages that are related to Android.
+
+For more info:
 https://support.google.com/analytics/answer/7165163?hl=en
