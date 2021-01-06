@@ -1,0 +1,4 @@
+A product impression is when a user views a product on your website. 
+Product impressions can occur on product pages, in a product carousel, or in a related products unit. 
+If you want to track a product impression, you can use the “add impression” method to pass product data to Google Analytics. 
+Note that you will need to customize this code to include data for your specific products. 
