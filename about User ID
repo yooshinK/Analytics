@@ -13,3 +13,6 @@ To avoid a situation where you have multiple User IDs associated with a single u
 This associates the User ID with hits collected in the same session before the User ID was assigned. With session unification, 
 Google Analytics can associate some hits that were received prior to setting the User ID. 
 Note that Analytics will only associate hits collected in the same session and it must be in the first session where the User ID is set.
+
+Note that User ID Views cannot be converted to standard views, and standard views cannot be converted to User ID views. 
+And only new views added to a User ID enabled property can be designated as User ID Views.
