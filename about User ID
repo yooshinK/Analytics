@@ -5,3 +5,11 @@ The User ID feature lets you override this default behavior letting you instead 
 
 User IDs allow you to connect an ID from your database to your website when your users interact with that content. 
 You could pull a User-ID from your database, pass it through web servers to your website, and then the Google Analytics tracking code can include that ID with its data hits. 
+
+However, there may be cases when a user is not logged in to your website or app, and Google Analytics will be unable to collect the User ID. 
+In that case, Analytics will go back to its default behavior and generate its own User ID, and will not be used to measure across devices.
+
+To avoid a situation where you have multiple User IDs associated with a single user, you can enable “session unification.” 
+This associates the User ID with hits collected in the same session before the User ID was assigned. With session unification, 
+Google Analytics can associate some hits that were received prior to setting the User ID. 
+Note that Analytics will only associate hits collected in the same session and it must be in the first session where the User ID is set.
