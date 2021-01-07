@@ -1,0 +1,7 @@
+https://support.google.com/analytics/answer/7165164?hl=en
+
+Google Analytics sets an anonymous identifier that’s stored in a browser cookie to recognize unique users. 
+The User ID feature lets you override this default behavior letting you instead associate your own anonymous identifier from a CRM system or customer database. 
+
+User IDs allow you to connect an ID from your database to your website when your users interact with that content. 
+You could pull a User-ID from your database, pass it through web servers to your website, and then the Google Analytics tracking code can include that ID with its data hits. 
