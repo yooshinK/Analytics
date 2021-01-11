@@ -5,6 +5,10 @@ Event tracking is a great way to know if users are engaging with your website an
 
 To collect Event data from a website, you'll need to add JavaScript to the individual elements on the site you wish to track. 
 
+When a user performs an action on an element with event tracking, the event tracking code will pass four parameters along with the event hit. 
+These parameters are: “Category,” “Action,” “Label,” and “Value.” 
+You can define these parameters in your JavaScript to organize the data in your event reports.
+
 “Category” lets you organize the events you track into groups. For your website, this might be “Videos” or “Social Shares.”   
 “Action” is the action the user took when they initiated the event. If you were tracking when users click a video play-button, 
 you might have a category called “Videos” with an associated action of “Play.”  
