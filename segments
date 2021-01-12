@@ -11,3 +11,7 @@ Or you might choose to build segments based on a specific traffic source like pa
 This helps you see which types of users each source delivers.
 
 Both user and session segments can be built using dimensions, metrics, session dates, and even sequences of user actions.
+
+For more info:
+https://support.google.com/analytics/answer/7165575
+https://support.google.com/analytics/answer/7165574?hl=en
