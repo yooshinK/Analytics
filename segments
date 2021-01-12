@@ -1,0 +1,13 @@
+Segmentation in Google Analytics is a way to view a subset of data in a report. You can create user segments or session segments. 
+User segments can span multiple sessions with a maximum date range of 90 days. 
+For example, you can build a user segment that shows data only for a specific age range, date range, gender, or a combination of these.
+
+Session segments are confined to user behavior within a single session. 
+For example, you can create session segments for a Goal users completed during the session or the amount of revenue a user generated.
+
+A powerful part of segments is the ability to add multiple segments to a single report for comparison. 
+You can compare segments of users who made a purchase with those that didn’t, to better understand what influences people to buy. 
+Or you might choose to build segments based on a specific traffic source like paid search and compare that to sessions that originated from email campaigns. 
+This helps you see which types of users each source delivers.
+
+Both user and session segments can be built using dimensions, metrics, session dates, and even sequences of user actions.
