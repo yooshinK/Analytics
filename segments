@@ -12,6 +12,8 @@ This helps you see which types of users each source delivers.
 
 Both user and session segments can be built using dimensions, metrics, session dates, and even sequences of user actions.
 
-For more info:
+For more info about segment:
+https://support.google.com/analytics/answer/3123951?hl=en
+https://www.searchenginewatch.com/2013/12/24/16-secret-google-analytics-advanced-segments-worth-their-weight-in-gold/
 https://support.google.com/analytics/answer/7165575
 https://support.google.com/analytics/answer/7165574?hl=en
