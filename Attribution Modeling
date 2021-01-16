@@ -12,3 +12,18 @@ By default, Google Analytics will attribute all of the credit, or ecommerce reve
 
 For more info":
 https://support.google.com/analytics/answer/7165174?hl=en
+https://support.google.com/analytics/answer/1662518?hl=en
+
+In the Last Interaction attribution model, the last touchpoint—in this case, the Direct channel—would receive 100% of the credit for the sale.
+ 
+Icon for Last Non-Direct and last AdWords Click In the Last Non-Direct Click attribution model, all direct traffic is ignored, and 100% of the credit for the sale goes to the last channel that the customer clicked through from before converting—in this case, the Email channel.
+ 
+Icon for Last Non-Direct and last AdWords Click In the Last Google Ads Click attribution model, the last Google Ads click—in this case, the first and only click to the Paid Search channel —would receive 100% of the credit for the sale.
+ 
+First Interaction model icon In the First Interaction attribution model, the first touchpoint—in this case, the Paid Search channel—would receive 100% of the credit for the sale.
+ 
+Linear model icon In the Linear attribution model, each touchpoint in the conversion path—in this case the Paid Search, Social Network, Email, and Direct channels—would share equal credit (25% each) for the sale.
+ 
+Time Decay model icon In the Time Decay attribution model, the touchpoints closest in time to the sale or conversion get most of the credit. In this particular sale, the Direct and Email channels would receive the most credit because the customer interacted with them within a few hours of conversion. The Social Network channel would receive less credit than either the Direct or Email channels. Since the Paid Search interaction occurred one week earlier, this channel would receive significantly less credit.
+ 
+Position-based model icon In the Position Based attribution model, 40% credit is assigned to each the first and last interaction, and the remaining 20% credit is distributed evenly to the middle interactions. In this example, the Paid Search and Direct channels would each receive 40% credit, while the Social Network and Email channels would each receive 10% credit. 
