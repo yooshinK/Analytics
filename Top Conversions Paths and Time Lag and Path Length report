@@ -3,5 +3,7 @@ The Top Conversions Paths report shows conversions and conversion value grouped 
 The Time Lag report shows conversions grouped by the number of days it took from initial interest to conversion. 
 This can give you a sense of how long your users take to make a purchase and potentially inform your remarketing campaigns.
 
+The Path Length report also shows how many interactions on average it took to convert and how much each series of interactions was worth.
+
 For more info:
 https://support.google.com/analytics/answer/7165174?hl=en
