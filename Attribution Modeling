@@ -1,0 +1,14 @@
+Attribution modeling is a set of rules that determine how sales and conversions get attributed to your marketing campaigns. 
+The goal of attribution modeling is to help you better understand how different marketing campaigns and different marketing channels all work together to produce conversions. 
+This can help you better allocate and invest your marketing time and budget.
+
+For example, a customer could visit the Google Merchandise Store from a Google Ads ad. 
+They could return a week later by clicking on a link in a social network. 
+That same day, they could return a third time through an email campaign and make a purchase. 
+All of those marketing activities worked together to generate the conversion. 
+
+By default, Google Analytics will attribute all of the credit, or ecommerce revenue, to the last marketing activity 
+-- in this case, the email campaign. This is called a “last-click” attribution model.
+
+For more info":
+https://support.google.com/analytics/answer/7165174?hl=en
