@@ -1,3 +1,8 @@
+A Custom Report is a report that you create. 
+You pick the dimensions (City and Browser, for example) and metrics (Sessions, Pageviews, and Bounce Rate, for example) and decide how they should be displayed. 
+You must specify at least one dimension and one metric. Learn about dimensions and metrics.
+
+Some metrics and dimensions can't be paired in a custom report. For details, refer to valid dimension-metric combinations.
 Custom Reports are a good alternative to secondary dimensions if you want to use a Custom Dimension as your primary, not your secondary dimension. 
 They can also be useful if you want to see more than two dimensions per row, which can be helpful if you need to export the data table into another software for analysis. 
 And finally, Custom Reports allow you to report on any Custom Metrics you have collected.
@@ -5,3 +10,6 @@ And finally, Custom Reports allow you to report on any Custom Metrics you have c
 - use a custom dimension as your primary, rather than your secondary dimension.
 - include more than two dimensions per row, which can be helpful if you need to export the data table into another software for analysis.
 - report on any Custom Metrics you have collected
+
+For Your Information:
+https://support.google.com/analytics/answer/1033013?hl=en
